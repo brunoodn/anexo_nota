@@ -7,7 +7,7 @@ session_start();
 
 define( 'MYSQL_HOST', 'localhost' );
 define( 'MYSQL_USER', 'root' );
-define( 'MYSQL_PASSWORD', 'cbr#maria#r00t' );
+define( 'MYSQL_PASSWORD', '' );
 define( 'MYSQL_DB_NAME', 'nf_digital' );
 
 function conecta(){

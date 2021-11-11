@@ -1,6 +1,6 @@
 <?php
     // Conexao com o banco do winthor
-    $conn = oci_connect('CMLBRASIL', 'CMLORACLER11T', '10.3.1.5/orcl');
+    $conn = oci_connect('', '', '');
 
     function Sql($numnota){
         $sql = 
